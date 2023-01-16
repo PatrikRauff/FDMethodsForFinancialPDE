@@ -1,0 +1,8 @@
+﻿  framework.c
+  MemoryManager.cpp
+  MemoryPool.cpp
+  XLCALL.CPP
+  xlExport.cpp
+  Generating Code...
+     Creating library C:\Users\patri\OneDrive\Dokumenter\CandScientOecon\SaxoPuk\Week 4\xladdin\x64\Debug\CompFin_64.lib and object C:\Users\patri\OneDrive\Dokumenter\CandScientOecon\SaxoPuk\Week 4\xladdin\x64\Debug\CompFin_64.exp
+  CompFin_64.vcxproj -> C:\Users\patri\OneDrive\Dokumenter\CandScientOecon\SaxoPuk\Week 4\xladdin\x64\Debug\CompFin_64.xll
